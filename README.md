@@ -1,3 +1,5 @@
+This a FIFA World Cup 2022 fantasy style picker it uses Directus as the management platform for all the data returned from REST APIS.
+
 # create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
